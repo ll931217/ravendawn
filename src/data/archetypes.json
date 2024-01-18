@@ -1,0 +1,66 @@
+{
+  "wizardry": {
+    "name": "Wizardry",
+    "color": "#8241c5",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Wizardry.png/50px-Wizardry.png"
+    },
+    "description": "Bending the elements to their will, Wizardry users harness the power of ice and fire to devastate their enemies. Whether igniting foes in flames or entombing them in ice, Wizardry users call upon powerful single-target and area spells to deal massive amounts of damage on the battlefield. With the potential to single-handedly shift the tide of battle, a user of this archetype is truly an arcane force to be reckoned with."
+  },
+  "holy": {
+    "name": "Holy",
+    "color": "#fff",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Holy.png/50px-Holy.png"
+    },
+    "description": "Channeling the restorative light of the dawn, Holy is the primary healing archetype in the world of Ravendawn. While this archetype focuses on keeping its user and their allies alive on the field of battle, the full power of the dawn should not be underestimated, as skilled users can call down its holy force to smite their enemies where they stand."
+  },
+  "spiritual": {
+    "name": "Spiritual",
+    "color": "#ff4f50",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Spiritual.png/50px-Spiritual.png"
+    },
+    "description": "Users of the Spiritual Archetype have a supernatural calm, able to focus intensely upon the invisible threads that tie the world together. With a honed mind, they can summon these forces to aid their allies—protecting them with barriers of wind, hastening their movements, and refreshing their dwindling stores of mana. An adept of Spiritual Magic is an invaluable member to any team."
+  },
+  "witchcraft": {
+    "name": "Witchcraft",
+    "color": "#5da5fb",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Witchcraft.png/50px-Witchcraft.png"
+    },
+    "description": "An archetype said to have originated from ancient vampiric cults, Witchcraft users mix occult powers with the ability to gain strength from the weaknesses of others. There is no one better than a Witchcraft user at finding an enemy’s flaw and exploiting it to their advantage, which makes them incredibly dangerous foes."
+  },
+  "warfare": {
+    "name": "Warfare",
+    "color": "#ffa950",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Warfare.png/50px-Warfare.png"
+    },
+    "description": "With a ravenous appetite for bloodshed, Warfare is the favored archetype of orcs and barbarians. Users of this archetype specialize in brute force combat, able to draw upon the lifeblood they’ve spilled to heal themselves and strengthen their savage attacks. A Warfare user in the throes of bloodlust and hatred is a terrible sight to behold."
+  },
+  "shadow": {
+    "name": "Shadow",
+    "color": "#d977c4",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Shadow.png/50px-Shadow.png"
+    },
+    "description": "Using the shadows as a cloak, users of this archetype prefer to extinguish the lives of their victims without ever being seen. The Shadow archetype makes use of toxins and deception to weaken targets before dealing a fatal blow. Shadow users are heralds of death—by the time you’ve seen one, you’re already dead."
+  },
+  "protection": {
+    "name": "Protection",
+    "color": "#feed51",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Protection.png/50px-Protection.png"
+    },
+    "description": "Strong-footed and brave, these users never lose their unbreakable spirit in the heat of battle. The preferred archetype of the mighty Ravenguard, users of Protection are often found in the vanguard of armies, defending their allies and bashing in the skulls of their enemies. Their morale in battle is legendary, a powerful force which affects friend and foe alike."
+  },
+  "archery": {
+    "name": "Archery",
+    "color": "#78d563",
+    "image": {
+      "icon": "https://cdn-wiki.ravendawn.online/thumb/Archery.png/50px-Archery.png"
+    },
+    "description": "With the eyes of a hawk and the swiftness of a falcon, Archery users outpace their opponents with speed and vision. Ranged combat is this Archetype’s specialty, empowering its users with an array of deadly arrows to be shot from afar. And if an enemy gets too close—an Archery user can draw upon disengage abilities to slow their opponent and create enough separation for a killing shot. The Rohna Brotherhood has been able to evade the Ravenguard for decades, largely due to the strength of this Archetype."
+  }
+}

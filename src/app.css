@@ -1,0 +1,18 @@
+:root {
+  --wizardry-color: #8241c5;
+  --holy-color: #fff;
+  --spiritual-color: #ff4f50;
+  --witchcraft-color: #5da5fb;
+  --warfare-color: #ffa950;
+  --shadow-color: #d977c4;
+  --protection-color: #feed51;
+  --archery-color: #78d563;
+}
+
+body {
+  /* background-color: #2f2f2f; */
+}
+
+#app {
+  display: flex;
+}

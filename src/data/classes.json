@@ -1,0 +1,226 @@
+{
+  "sage": {
+    "name": "Sage",
+    "archetypes": ["Wizardry", "Holy", "Spiritual"]
+  },
+  "loremaster": {
+    "name": "Loremaster",
+    "archetypes": ["Wizardry", "Holy", "Witchcraft"]
+  },
+  "magus": {
+    "name": "Magus",
+    "archetypes": ["Wizardry", "Holy", "Warfare"]
+  },
+  "warden": {
+    "name": "Warden",
+    "archetypes": ["Wizardry", "Holy", "Protection"]
+  },
+  "necromancer": {
+    "name": "Necromancer",
+    "archetypes": ["Wizardry", "Holy", "Shadow"]
+  },
+  "cabalist": {
+    "name": "Cabalist",
+    "archetypes": ["Wizardry", "Holy", "Archery"]
+  },
+  "arcanist": {
+    "name": "Arcanist",
+    "archetypes": ["Wizardry", "Spiritual", "Witchcraft"]
+  },
+  "battlemage": {
+    "name": "Battlemage",
+    "archetypes": ["Wizardry", "Spiritual", "Warfare"]
+  },
+  "blackguard": {
+    "name": "Blackguard",
+    "archetypes": ["Wizardry", "Spiritual", "Protection"]
+  },
+  "soulknife": {
+    "name": "Soulknife",
+    "archetypes": ["Wizardry", "Spiritual", "Shadow"]
+  },
+  "soulbow": {
+    "name": "Soulbow",
+    "archetypes": ["Wizardry", "Spiritual", "Archery"]
+  },
+  "spellblade": {
+    "name": "Spellblade",
+    "archetypes": ["Wizardry", "Witchcraft", "Warfare"]
+  },
+  "hex_warden": {
+    "name": "Hex Warden",
+    "archetypes": ["Wizardry", "Witchcraft", "Protection"]
+  },
+  "shadowspell": {
+    "name": "Shadowspell",
+    "archetypes": ["Wizardry", "Witchcraft", "Shadow"]
+  },
+  "spellbow": {
+    "name": "Spellbow",
+    "archetypes": ["Wizardry", "Witchcraft", "Archery"]
+  },
+  "dreadknight": {
+    "name": "Dreadknight",
+    "archetypes": ["Wizardry", "Warfare", "Protection"]
+  },
+  "eldritch": {
+    "name": "Eldritch",
+    "archetypes": ["Wizardry", "Warfare", "Shadow"]
+  },
+  "reaver": {
+    "name": "Reaver",
+    "archetypes": ["Wizardry", "Warfare", "Archery"]
+  },
+  "death_warden": {
+    "name": "Death Warden",
+    "archetypes": ["Wizardry", "Protection", "Shadow"]
+  },
+  "minstrel": {
+    "name": "Minstrel",
+    "archetypes": ["Wizardry", "Protection", "Archery"]
+  },
+  "shade": {
+    "name": "Shade",
+    "archetypes": ["Wizardry", "Shadow", "Archery"]
+  },
+  "scholar": {
+    "name": "Scholar",
+    "archetypes": ["Holy", "Spiritual", "Witchcraft"]
+  },
+  "warpriest": {
+    "name": "Warpriest",
+    "archetypes": ["Holy", "Spiritual", "Warfare"]
+  },
+  "cleric": {
+    "name": "Cleric",
+    "archetypes": ["Holy", "Spiritual", "Protection"]
+  },
+  "occultist": {
+    "name": "Occultist",
+    "archetypes": ["Holy", "Spiritual", "Shadow"]
+  },
+  "bard": {
+    "name": "Bard",
+    "archetypes": ["Holy", "Spiritual", "Archery"]
+  },
+  "paragon": {
+    "name": "Paragon",
+    "archetypes": ["Holy", "Witchcraft", "Warfare"]
+  },
+  "justicar": {
+    "name": "Justicar",
+    "archetypes": ["Holy", "Witchcraft", "Protection"]
+  },
+  "emissary": {
+    "name": "Emissary",
+    "archetypes": ["Holy", "Witchcraft", "Shadow"]
+  },
+  "oracle": {
+    "name": "Oracle",
+    "archetypes": ["Holy", "Witchcraft", "Archery"]
+  },
+  "paladin": {
+    "name": "Paladin",
+    "archetypes": ["Holy", "Warfare", "Protection"]
+  },
+  "planeswalker": {
+    "name": "Planeswalker",
+    "archetypes": ["Holy", "Warfare", "Shadow"]
+  },
+  "valkyrie": {
+    "name": "Valkyrie",
+    "archetypes": ["Holy", "Warfare", "Archery"]
+  },
+  "apothecary": {
+    "name": "Apothecary",
+    "archetypes": ["Holy", "Protection", "Shadow"]
+  },
+  "crusader": {
+    "name": "Crusader",
+    "archetypes": ["Holy", "Protection", "Archery"]
+  },
+  "archivist": {
+    "name": "Archivist",
+    "archetypes": ["Holy", "Shadow", "Archery"]
+  },
+  "hex_blade": {
+    "name": "Hex Blade",
+    "archetypes": ["Spiritual", "Witchcraft", "Warfare"]
+  },
+  "runesmith": {
+    "name": "Runesmith",
+    "archetypes": ["Spiritual", "Witchcraft", "Protection"]
+  },
+  "hex_mage": {
+    "name": "Hex Mage",
+    "archetypes": ["Spiritual", "Witchcraft", "Shadow"]
+  },
+  "astral_ranger": {
+    "name": "Astral Ranger",
+    "archetypes": ["Spiritual", "Witchcraft", "Archery"]
+  },
+  "spellbreaker": {
+    "name": "Spellbreaker",
+    "archetypes": ["Spiritual", "Warfare", "Protection"]
+  },
+  "soulblade": {
+    "name": "Soulblade",
+    "archetypes": ["Spiritual", "Warfare", "Shadow"]
+  },
+  "marshal": {
+    "name": "Marshal",
+    "archetypes": ["Spiritual", "Warfare", "Archery"]
+  },
+  "inquisitive": {
+    "name": "Inquisitive",
+    "archetypes": ["Spiritual", "Protection", "Shadow"]
+  },
+  "confessor": {
+    "name": "Confessor",
+    "archetypes": ["Spiritual", "Protection", "Archery"]
+  },
+  "hex_ranger": {
+    "name": "Hex Ranger",
+    "archetypes": ["Spiritual", "Witchcraft", "Warfare"]
+  },
+  "bloodthrall": {
+    "name": "Bloodthrall",
+    "archetypes": ["Witchcraft", "Warfare", "Protection"]
+  },
+  "nightblade": {
+    "name": "Nightblade",
+    "archetypes": ["Witchcraft", "Warfare", "Shadow"]
+  },
+  "herald": {
+    "name": "Herald",
+    "archetypes": ["Witchcraft", "Warfare", "Archery"]
+  },
+  "executioner": {
+    "name": "Executioner",
+    "archetypes": ["Witchcraft", "Protection", "Shadow"]
+  },
+  "sentinel": {
+    "name": "Sentinel",
+    "archetypes": ["Witchcraft", "Protection", "Archery"]
+  },
+  "trickster": {
+    "name": "Trickster",
+    "archetypes": ["Witchcraft", "Shadow", "Archery"]
+  },
+  "dark_knight": {
+    "name": "Dark Knight",
+    "archetypes": ["Warfare", "Protection", "Shadow"]
+  },
+  "fighter": {
+    "name": "Fighter",
+    "archetypes": ["Warfare", "Protection", "Archery"]
+  },
+  "shadestriker": {
+    "name": "Shadestriker",
+    "archetypes": ["Warfare", "Shadow", "Archery"]
+  },
+  "boneweaver": {
+    "name": "Boneweaver",
+    "archetypes": ["Protection", "Shadow", "Archery"]
+  }
+}
